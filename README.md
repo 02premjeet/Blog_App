@@ -1,8 +1,16 @@
-# Blog_App
-Spring Boot, MySQL, Spring Security, JWT, JPA, Rest API
+# MedTech Matters Blogging Aplication
+## About 
+## Team
+## Technology & Tool/Frameworks 
+-Core Java
+-Spring Boot
+-MySQL
+-Spring Security-
+-JWT
+-Hibernate/JPA 
+-Rest API
 
-
-Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.
+### Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.
 
 Link http://blogapp-env-1.eba-se5hnprk.ap-south-1.elasticbeanstalk.com/swagger-ui/index.html#/auth-controller/registerUserUsingPOST
 Steps to Setup
