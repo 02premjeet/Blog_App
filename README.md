@@ -1,14 +1,16 @@
 # MedTech Matters Blogging Aplication
 ## About 
+- This is a Blogging WebSite.Where any user can create , Update , Delete and Get the post as well as they can comment on the any posts.
 ## Team
+- Premjeet Kumar
 ## Technology & Tool/Frameworks 
--Core Java
--Spring Boot
--MySQL
--Spring Security-
--JWT
--Hibernate/JPA 
--Rest API
+- Core Java
+- Spring Boot
+- MySQL
+- Spring Security-
+- JWT
+- Hibernate/JPA 
+- Rest API
 
 ### Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.
 
