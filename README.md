@@ -1,4 +1,4 @@
-# MedTech Matters Blogging Aplication
+# MedTech Matters Blogging Application
 ## About 
 - This is a Blogging WebSite.Where any user can create , Update , Delete and Get the post as well as they can comment on the any posts.
 ## Team
